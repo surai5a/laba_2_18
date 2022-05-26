@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Pasta",
+        "shop": "Italiano",
+        "price": 100
+    },
+    {
+        "name": "Tomamo",
+        "shop": "Green",
+        "price": 100
+    }
+]
