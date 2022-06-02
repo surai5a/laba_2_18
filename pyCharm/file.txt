@@ -5,6 +5,11 @@
         "price": 100
     },
     {
+        "name": "Pizza",
+        "shop": "Mama",
+        "price": 200
+    },
+    {
         "name": "Tomamo",
         "shop": "Green",
         "price": 100
